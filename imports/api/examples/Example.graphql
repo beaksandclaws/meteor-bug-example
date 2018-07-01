@@ -1,0 +1,8 @@
+type Example {
+  _id: String
+  name: String
+  # name2: String
+}
+type Query {
+  hello: String
+}
